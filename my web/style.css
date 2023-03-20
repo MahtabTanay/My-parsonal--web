@@ -1,0 +1,26 @@
+.fornt{
+    font-family: 'Rubik Iso', cursive;
+}
+h1{
+    font-size: 50px;
+}
+.my-web{
+    color: rgb(255, 153, 0);
+
+}
+.my-name{
+    color: rgb(12, 10, 7);
+}
+.span-hightlite{
+             color: rgb(255, 153, 0);
+}
+.helf-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.helf-width img {
+    width: 100%;
+}
